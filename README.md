@@ -11,6 +11,8 @@ Akka.Net provides:
 
 You can find detailed information about Akka.Net at [here](https://getakka.net/articles/intro/what-is-akka.html "here")
 
+![image](https://user-images.githubusercontent.com/11175871/229297081-4d12f977-1592-47a9-b42d-0c0a498678d4.png)
+
 ### Features of the application
 - HSM's virtualized as an actor to handle messages for a high performing manner.(HSM functions not implemented. Uses software encrpytion for PoC purpose).
 - Can add/remove HSM's and add/remove keys to HSM's before or while executing cryptographic operations.(All HSM's are expected to use the same slot and the same cryptographic keys).
